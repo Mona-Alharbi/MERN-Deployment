@@ -1,0 +1,75 @@
+.App {
+  text-align: center;
+  
+}
+
+.p1{
+  display: inline-block;
+  margin: 10px;
+}
+.pc{
+  display: inline-block;
+  margin: 20px;
+}
+
+.right{
+  display: inline-block;
+  height: 300px;
+  width: 200px;
+  border: solid black;
+  background-color: white;
+  margin-top: 10px;
+}
+.dname{
+  display: inline-block;
+  height: 50px;
+  width: 490px;
+  background-color: rgb(133, 74, 6);
+  padding: 5px;
+
+}
+.div0{
+  display: inline-block;
+  vertical-align: top;
+  height: 400px;
+  width: 500px;
+  background-color: rgb(214, 121, 15);
+}
+.left{
+  height: 150px;
+  width: 180px;
+  display: inline-block;
+  margin-right: 50px;
+  
+
+}
+.all{
+
+  height: 400px;
+  width: 400px;
+  display: flex;
+  vertical-align: top;
+}
+button{
+  background-color: rgb(56, 56, 230);
+  height: 30px;
+  width: 140px;
+}
+img{
+  margin: 10px;
+}
+.divsingle{
+  background-color: rgb(214, 121, 15);
+  height: 400px;
+  width: 500px;
+  display: flex;
+  margin-left: 434px;
+}
+.b1{
+  display: inline-block;
+  background-color: brown;
+}
+.b2{
+  display: inline-block;
+
+}
